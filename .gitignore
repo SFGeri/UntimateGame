@@ -2,7 +2,6 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-.uasset
 .vscode
 .vs
 *.VC.db
@@ -13,3 +12,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.uasset
